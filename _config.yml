@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Molly S. Quinn"
   avatar           : "biketrip.jpeg"
-  bio              : "PhD Candidate in Computer Science"
+  bio              : "PhD Candidate in Computer Science at University College Dublin"
   location         : "Dublin, IE"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?authuser=3&user=M677etQAAAAJ"
-  email            :
+  email            : "molly.quinn@ucdconnect.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
