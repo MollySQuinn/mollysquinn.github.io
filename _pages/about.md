@@ -1,4 +1,14 @@
-# My Portfolio
+---
+permalink: /
+title: "About me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+# About
 I am a PhD Candidate in Computer Science at University College Dublin with background in Experimental Psychology at the University of South Florida St. Petersburg.
 
 ## Publications
