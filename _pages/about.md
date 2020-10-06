@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Candidate in Computer Science at University College Dublin with background in Experimental Psychology at the University of South Florida St. Petersburg.
-
-## Publications
-* Quinn, M. S., Campbell, K., & Keane, M. T. (Under review). Do We “Fear for the Worst” or “Hope for the Best” in Thinking About the Unexpected?: Factors Affecting the Valence of Unexpected Outcomes Reported for Everyday Scenarios. 
-* Quinn, M. S., Campbell, K., & Keane, M. T. (2019). The Unexpected Unexpected and the Expected Unexpected: How People's Conception of the Unexpected is Not That Unexpected. In _The 41st Annual Conference of the Cognitive Science Society (COGSCI’19)_, Montreal, Canada, 24-27 July 2019.[arXiv preprint arXiv:1905.08063.](https://arxiv.org/abs/1905.08063)
+PhD Candidate in Computer Science at University College Dublin with background in Experimental Psychology. Studying how people predict and explain unexpected events with an eye on creating better explanations for AI. Native Floridian staying warm in Dublin, IE.
 
 ## Reproducable Work and Data Repositories
-Do We “Fear for the Worst” or “Hope for the Best” in Thinking About the Unexpected?: Factors Affecting the Valence of Unexpected Outcomes Reported for Everyday Scenarios. [data and analysis](https://data.mendeley.com/datasets/kkt999sn7b/1)
+Three Datasets Reporting Unexpected Events for Everyday Scenarios. [Mendeley data and analysis repository.](https://data.mendeley.com/datasets/kkt999sn7b/1)
 
 ## White Papers
 
