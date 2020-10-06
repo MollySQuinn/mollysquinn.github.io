@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# About
 I am a PhD Candidate in Computer Science at University College Dublin with background in Experimental Psychology at the University of South Florida St. Petersburg.
 
 ## Publications
