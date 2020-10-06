@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Reproducable Work and Data Repositories"
+excerpt: "Three Datasets Reporting Unexpected Events for Everyday Scenarios. [Mendeley data repository](https://data.mendeley.com/datasets/kkt999sn7b/1)"
 collection: portfolio
 ---
 

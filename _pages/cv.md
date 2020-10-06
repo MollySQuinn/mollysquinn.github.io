@@ -75,13 +75,6 @@ Skills
 * Expert in SPSS for Data Analysis
 * Beginner in SAS and Tableau
 
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
   
 Other Experience
 ======
