@@ -84,4 +84,3 @@ Other Experience
 **Volunteer Docent**, _Salvador Dalí Museum_, St. Petersburg, FL • May 2009 – Dec 2014
 * Taught children about Dalí, art, and public speaking at summer camps.
 * Led museum tours for ~30 adult visitors or school groups of ~20 students.
-
