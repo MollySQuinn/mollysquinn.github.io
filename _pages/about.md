@@ -14,8 +14,9 @@ Native Floridian staying warm in Dublin, IE.
 
 
 ## Publications
-* Quinn, M. S., Campbell, K., & Keane, M. T. (Under review). Do We “Fear for the Worst” or “Hope for the Best” in Thinking About the Unexpected?: Factors Affecting the Valence of Unexpected Outcomes Reported for Everyday Scenarios. 
-* Quinn, M. S., Campbell, K., & Keane, M. T. (2019). The Unexpected Unexpected and the Expected Unexpected: How People's Conception of the Unexpected is Not That Unexpected. In _The 41st Annual Conference of the Cognitive Science Society (COGSCI’19)_, Montreal, Canada, 24-27 July 2019.[arXiv preprint arXiv:1905.08063.](https://arxiv.org/abs/1905.08063)
+* Kenny, E. M., Ford, C., Quinn, M. S. & Keane, M. T. (in press) Explaining black-box classifiers using post-hoc explanations-by-example: The effect of explanations and error-levels in XAI user studies. _Artificial Intelligence_.
+* Quinn, M. S., Campbell, K. & Keane, M. T. (in press). Do we “fear for the worst” or “hope for the best” in thinking about the unexpected?: Factors affecting the valence of unexpected outcomes reported for everyday scenarios. _Cognition_.
+* Quinn, M. S., Campbell, K., & Keane, M. T. (2019). The Unexpected Unexpected and the Expected Unexpected: How People's Conception of the Unexpected is Not That Unexpected. In _The 41st Annual Conference of the Cognitive Science Society (COGSCI’19)_, Montreal, Canada, 24-27 July 2019. [arXiv preprint arXiv:1905.08063.](https://arxiv.org/abs/1905.08063)
 
 ## Reproducable Work and Data Repositories
 Three Datasets Reporting Unexpected Events for Everyday Scenarios. [data and analysis](https://data.mendeley.com/datasets/kkt999sn7b/1)
