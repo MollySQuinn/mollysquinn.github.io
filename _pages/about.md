@@ -8,4 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+Experienced Sr. Data Scientist with Ph.D.in Computer Science and background in experimental
+psychology.
+
 -- Under Construction --
