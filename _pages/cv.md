@@ -9,6 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Work Experience 
+======
+__Target • Minneapolis, MN, USA__
+* As a member of the Product Availability team, I am advancing machine learning models to identify unknown out-of-stock items on store shelves and backroom.
+* Model in production predicts the most valuable item-locations for team members to manually audit, ensuring allocated labor returns at least $6 per audit.
+* CI/CD Practices continually improving inference pipeline.\medskip\\
+* Proven experience translating business questions into mathematical problems, coordinating with leaders, product owners, and prioritizing real-world solutions.
+* Attentive to best practices such as Agile ceremonies, MLOps, and code review.
+* Working with big data using **Pyspark**, **Docker**,  **MLFlow**, **Hadoop**, **Hive**.
+* Ability to take complex data science methodologies and explain them to technical and non-technical business partners and senior leadership.
+
+-- Under construction --
+
 Education
 ======
 __University College Dublin • Dublin, Ireland__  
@@ -23,61 +36,20 @@ _MA in Psychology_ • Aug 2014 – Dec. 2015 • 3.88/4.0
 
 _BA in Psychology, minor in Business_ • Aug. 2011 – May 2014 • 3.65/4.0
 
-
-Work experience
-======
-__College of Business, University College Dublin, Dublin, Ireland__  
-**Consultant Data Analyst** • June 2020 – Present  
-* Tweet corpus analysis using Python for a business school research group.
-* Identifying influencers and topic modelling in the community using #wearenotwaiting.
-
-__TAO Connect, Inc., St. Petersburg, FL__  
-**Research Assistant, Data Analyst** • February 2017 – June 2018  
-_First analysis of 4 years of data collected by a start-up in the Telehealth industry. Reported to Chief Science Officer/Founder and CEO._  
-* Developed the company’s first dashboard for interactive data visualization of key business metrics using R and the Shiny package, updated daily, and version control managed via Git.
-* Queried databases with MySQL and analyzed client mental health improvement and usage of TAO tools with R.
-* Designed survey and analyzed results of counselling center customers’ satisfaction.
-* Consulted with counselling center customers to provide reports and analytical support.
-* Provided the sales team with reports of client feedback and utilization.
-* 4 white papers publicly available at: www.taoconnect.org/ask-the-inventor/
-
-__University South Florida St. Petersburg, St. Petersburg, FL__  
-_My most relevant positions & projects at my alma mater are detailed below:_ <br/>
-
-**Research Assistant** • _Judgement and Decision Making Lab_ • May 2013 – June 2018  
-Hindsight Bias and Learning – Master’s Thesis  
-* Designed study in Qualtrics survey engine, added functionality to alter item behaviors such as timing and click-to-view flashcards using JavaScript.
-Hindsight Bias and Decision Quality
-* Post hoc path analyses of data from three studies to determine the effect of hindsight bias on judgments of decision quality mediated by certainty, perceived likelihood, and outcome valence in SPSS and R.
-
-**Adjunct Professor** • _Psychology Department_ • May – July 2016  
-* Taught Research Methods in Psychology to 26 undergraduate students. 
-* Topics included: sample selection, reading and writing scholarly articles, creating surveys, conducting experiments, and univariate and multivariate statistical analyses using SPSS.
-
-**Consultant Research Assistant** • _Enrollment & Marketing Services_ • Feb – June 2016  
-* Designed survey with my faculty advisor to determine key factors influencing student retention, benchmarked against local colleges’ surveys.
-* Analyses were presented to the Director and Assistant Director to inform decisions about course offerings for the types of students enrolled on our campus (e.g.; working mothers) to reduce attrition and gap semesters.
-
-**Psychology Tutor** • _Debbie Nye Sembler Student Success Center_ • Sep. 2015 – May 2016  
-* One-on-one or small group tutoring of Algebra, Statistics, Research Methods in Psychology, Experimental Design, and Tests and Measurements.
-
-**Lab Manager** • _Cognition and Emotion Lab_ • Aug. 2014 – Dec. 2015  
-Assisted with experiments on language recognition, videogame and gambling behaviors.  
-* Streamlined and automated data entry protocols in Excel, SPSS, and fNIRSoft to consolidate paper and electronic records from multiple sources.
-* Trained 12 undergraduate RAs to run studies and follow data entry protocols.
-* Managed participant pool using Sona Systems participant pool.
-
 Skills
 ======
 * Proficient in Python for statistical data analysis
 * Proficient in R, dashboard creation using Shiny and shinydashboard
-* Proven experience in SQL, MySQL, and Git
-* Expert in SPSS for Data Analysis
-* Beginner in SAS and Tableau
+* Proven experience in SQL, Git, Docker, and MLFlow
+* Proficient in SPSS for Data Analysis
 
   
-Other Experience
+Volunteering and Other
 ======
+** Volunteer Mentor**, Minneapolis, MN Sep 2024 - Present
+* Volunteer with company group tech2elevate mentoring high school students in JavaScript, CSS, and HTML to create their own shopping cart.
+* Contributor to internal initiatives for Women in Technology including job shadowing for school students.
+
 **Adventure Cyclist**, USA • Sep – Nov. 2016
 * Cycled over 3,250 miles across the United States from San Diego, CA to St. Augustine, FL. #2016walkinthepark on Instagram.
 
