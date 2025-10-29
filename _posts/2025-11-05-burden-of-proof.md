@@ -1,11 +1,12 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'Burden of Proof'
+date: 2025-11-05
+permalink: /posts/2025/11/burden-of-proof/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - AI
+  - LLM
+  - NLP
+  - psychology
 ---
 
 This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
