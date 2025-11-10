@@ -1,6 +1,6 @@
 ---
 title: 'Burden of Proof'
-date: 2025-11-05
+date: 2025-12-25
 permalink: /posts/2025/11/burden-of-proof/
 tags:
   - AI
