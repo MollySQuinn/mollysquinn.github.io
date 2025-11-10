@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Molly S. Quinn"
   avatar           : "apictureofme.jpg"
-  bio              : "PhD Candidate in Computer Science at University College Dublin"
-  location         : "Dublin, IE"
-  employer         :
+  bio              : "Senior Data Scientist"
+  location         : "Minneapolis"
+  employer         : "Target"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?authuser=3&user=M677etQAAAAJ"
-  email            : "molly.quinn@ucdconnect.ie"
+  email            : "molly.susan.quinn@ucdconnect.ie"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@Molly_S_Quinn"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
