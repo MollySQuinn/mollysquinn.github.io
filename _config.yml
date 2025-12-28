@@ -84,10 +84,12 @@ author:
   avatar           : "biketrip.jpg"
   bio              : "Senior Data Scientist"
   location         : "Minneapolis, MN, USA"
+  location         : "Minneapolis, MN, USA"
   employer         : "Target"
-  github           : "https://github.com/MollySQuinn"
+  github           : "MollySQuinn"
   googlescholar    : "https://scholar.google.com/citations?authuser=3&user=M677etQAAAAJ"
   linkedin         : "molly-s-quinn/"
+
 
 
 
