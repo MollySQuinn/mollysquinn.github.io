@@ -83,11 +83,12 @@ author:
   name             : "Dr. Molly S. Quinn"
   avatar           : "biketrip.jpg"
   bio              : "Senior Data Scientist"
-  location         : "Minneapolis"
+  location         : "Minneapolis, MN, USA"
   employer         : "Target"
+  github           : "https://github.com/MollySQuinn"
   googlescholar    : "https://scholar.google.com/citations?authuser=3&user=M677etQAAAAJ"
   linkedin         : "molly-s-quinn/"
-  orcid            : "http://orcid.org/0000-0003-3451-9575"
+
 
 
 # Reading Files
